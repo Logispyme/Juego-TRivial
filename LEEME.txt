@@ -1,0 +1,5 @@
+SUPPLY CHAIN QUEST - Instalar como app
+1) Sube esta carpeta a cualquier hosting HTTPS (GitHub Pages, Netlify, Vercel...).
+2) Abre la URL en el móvil: Chrome/Android -> 'Instalar app'; Safari/iPhone -> Compartir -> 'Añadir a pantalla de inicio'.
+3) Funciona sin conexión tras la primera carga. El progreso se guarda en el dispositivo.
+Para tiendas (Play Store/App Store): envolver esta carpeta con Capacitor (npx cap init; copiar a www/; npx cap add android).
